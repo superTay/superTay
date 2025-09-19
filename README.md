@@ -1,4 +1,7 @@
 
+![Banner](banner_profile.pgc.png)
+
+
 Christian M. Della-Rovere (superTay)
 
 
