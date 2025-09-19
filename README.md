@@ -1,12 +1,7 @@
 
-![Banner](banner_profile.pgc.png)
-
-
-Christian M. Della-Rovere (superTay)
-
-
-
 # Hi, I'm Christian! 👋
+
+![Banner](banner_profile.pgc.png)
 
 
 ## 🚀 About Me
