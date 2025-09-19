@@ -1,6 +1,5 @@
 
 # Hi, I'm Christian! 👋
-
 ![Banner](banner_profile.pgc.png)
 
 
