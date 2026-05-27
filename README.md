@@ -1,5 +1,5 @@
 <a href="https://github.com/superTay">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,100:2d3748&height=210&section=header&text=Christian%20Marzal%20della%20Rovere&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Builder%20%C2%B7%20AI%20Automation%20%C2%B7%20ES%20%2F%20EN%20%2F%20FR&descSize=18&descAlign=50&descAlignY=72" alt="Christian Marzal della Rovere — Full-Stack Builder · AI Automation · ES / EN / FR" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,100:2d3748&height=210&section=header&text=Christian%20Marzal%20Della%20Rovere&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Builder%20%C2%B7%20AI%20Automation%20%C2%B7%20ES%20%2F%20EN%20%2F%20FR&descSize=18&descAlign=50&descAlignY=72" alt="Christian Marzal della Rovere — Full-Stack Builder · AI Automation · ES / EN / FR" width="100%">
 </a>
 
 <p align="center">
@@ -149,14 +149,29 @@ A **multi-tenant invoicing SaaS** for Spanish freelance builders, built **solo e
 <p align="center">
   <a href="https://github.com/superTay">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=superTay&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&title_color=64b5f6&icon_color=64b5f6&text_color=e2e8f0&bg_color=00000000">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=superTay&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&title_color=1a365d&icon_color=1a365d&text_color=2d3748&bg_color=ffffff" alt="GitHub stats">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=superTay&theme=github_dark">
+      <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=superTay&theme=default" alt="GitHub stats">
     </picture>
   </a>
   <a href="https://github.com/superTay">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=superTay&layout=compact&hide_border=true&langs_count=8&hide=html,css&title_color=64b5f6&text_color=e2e8f0&bg_color=00000000">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superTay&layout=compact&hide_border=true&langs_count=8&hide=html,css&title_color=1a365d&text_color=2d3748&bg_color=ffffff" alt="Top languages">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=superTay&theme=github_dark&exclude=html,css">
+      <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=superTay&theme=default&exclude=html,css" alt="Top languages by repos">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/superTay">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=superTay&theme=github_dark&exclude=html,css">
+      <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=superTay&theme=default&exclude=html,css" alt="Most committed languages">
+    </picture>
+  </a>
+  <a href="https://github.com/superTay">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=superTay&theme=github_dark&utcOffset=2">
+      <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=superTay&theme=default&utcOffset=2" alt="Productive time">
     </picture>
   </a>
 </p>
