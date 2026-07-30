@@ -137,9 +137,9 @@ A **multi-tenant invoicing SaaS** for Spanish freelance builders, built **solo e
 
 | Project | Stack | What it is | Links |
 |---------|-------|-----------|-------|
+| **ChatBot Spa Mallorca** | WhatsApp Cloud API · Supabase · Edge Functions · PostgreSQL | Deterministic WhatsApp bot that fills a luxury spa's last-minute cancellations — pings only the free therapists, first to accept wins, **atomic close (zero double-bookings)**. No LLM. | [Repo](https://github.com/superTay/rellenahueco-showcase) |
 | **Ceremonias Holísticas** | React 18 · Vite · Tailwind · Framer Motion | Landing for a real paying client (Mallorca). Pencil mockup → production on Vercel. | [Repo](https://github.com/superTay/ceremonias-holisticas) · [Live](https://ceremonias-holisticas.vercel.app/) |
 | **Heart Disease NN** | NumPy (no TF/PyTorch) · Streamlit · scikit-learn | Neural net **built from scratch** — forward, backprop, Adam with bias correction, Dropout, Softmax+CCE. ROC-AUC 0.91 ± 0.02 (5-fold CV). | [Repo](https://github.com/superTay/heart-disease-risk-prediction-mlp) · [Live](https://heart-disease-nn-christian.streamlit.app) |
-| **FIFA Player Analytics** | Streamlit · Plotly · scikit-learn | Interactive dashboard over ~19k players × 106 columns. | [Repo](https://github.com/SuperTay/FIFA-Player-Analytics-Dashboard-Interactive-Data-Visualization-with-Streamlit) · [Live](https://fifa-player-analytics-supertay.streamlit.app/) |
 | **BookStore ORM** | Python · SQLAlchemy 2.0 · MySQL · Streamlit admin · CLI | Backend learning project — Repository pattern, `session_scope`, FK CASCADE/RESTRICT. | [Repo](https://github.com/superTay/BookStore-ORM-System) |
 
 ---
